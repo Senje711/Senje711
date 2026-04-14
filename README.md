@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-💡 I'm a **3rd Year BSIT Student** who loves creating interactive, user-friendly web interfaces.  
+💡 I'm a **4th Year BSIT Student** who loves creating interactive, user-friendly web interfaces.  
 🎯 Currently focusing on **Front-End Development** using **React.js**, **JavaScript**, **HTML**, and **CSS**.  
 🚀 I aim to build seamless user experiences that combine **design** and **functionality**.  
 🌱 Constantly learning and exploring new web technologies.  
